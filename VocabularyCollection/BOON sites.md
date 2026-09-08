@@ -10,10 +10,12 @@
 | Bonavista section | DFO | Canada | | *OceanGliders > BOON > Northwest Atlantic Ocean* | **published**|
 | Halifax section | DFO | Canada | | *OceanGliders > BOON > Northwest Atlantic Ocean* | **published**|
 | Calvert Island | DFO | Canada | | -- | **published**|
-| Aaland Sea | VOTO | Sweden | | -- | **published**|
-| Bornholm Basin |VOTO | Sweden | | -- | **published**|
-| Gotland Basin | VOTO | Sweden | | -- | **published**|
-| Skagerrak/Kattegat | VOTO | Sweden | | -- | **published**|
+| SAMBA_01 | VOTO | Sweden | Skagerrak/Kattegat |  *OceanGliders > BOON > Baltic Sea > SAMBA* | **published**|
+| SAMBA_02 | VOTO | Sweden | Borhnholm Basin |  *OceanGliders > BOON > Baltic Sea > SAMBA* | **published**|
+| SAMBA_03 | VOTO | Sweden | Easten Gotland Basin |  *OceanGliders > BOON > Baltic Sea > SAMBA* | **published**|
+| SAMBA_04 | VOTO | Sweden | Western Gotland Basin|  *OceanGliders > BOON > Baltic Sea > SAMBA* | **published**|
+| SAMBA_05 | VOTO | Sweden | Åland Sea |  *OceanGliders > BOON > Baltic Sea > SAMBA* | **published**|
+| SAMBA_06 | VOTO | Sweden | Central Eastern Gotland Basin |  *OceanGliders > BOON > Baltic Sea > SAMBA* | **published**|
 | GINA | | South Africa | | *OceanGliders > BOON > Indian Ocean > Gliders in the Agulhas Current* | **published** |
 | Balearic - Canales C1 | SOCIB | Spain | | -- |**published** |
 | Balearic - NAlgeria C2 | SOCIB | Spain | | -- |**published** |
