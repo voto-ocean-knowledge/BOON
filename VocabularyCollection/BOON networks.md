@@ -11,7 +11,7 @@
 | Southeast Atlantic | Gliders in the Benguela current | South Africa | Specific Network | | Tammy Morris | *OceanGliders > BOON > Southeast Atlantic Ocean > Gliders in the Benguela current* | |
 | Southwest Indian | | South Africa | Specific Network | | Tammy Morris | *OceanGliders > BOON > Indian Ocean > Gliders in the Agulhas current* |  |
 | Southwest Indian | Gliders in the Agulhas current (GINA) | South Africa | Specific Network | | Tammy Morris | *OceanGliders > BOON > Indian Ocean > Gliders in the Agulhas current* |  |
-| Baltic Sea | SAMBA | Sweden | Specific Network |SAMBA: Smart Autonomous Montoring of the BAltic sea. Continuous measurements across multiple sites in the Baltic. | Louise Biddle | *OceanGliders > BOON > Baltic Sea > SAMBA* | **published** |
+| Baltic Sea | SAMBA | Sweden | Specific Network |SAMBA: Smart Autonomous Monitoring of the BAltic sea. Continuous measurements across multiple sites in the Baltic. | Louise Biddle | *OceanGliders > BOON > Baltic Sea > SAMBA* | **published** |
 <!--- RET Commenting out future entries
 ### Status table of future entries in BOON networks collection
 
